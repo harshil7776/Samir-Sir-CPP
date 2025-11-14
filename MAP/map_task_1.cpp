@@ -42,5 +42,3 @@ int main()
 //     {
 //         cout<<"\n"<<pair.first<<"~"<<pair.second;
 //     }
-int choice,rollno
-}
